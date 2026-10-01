@@ -1,0 +1,11 @@
+{
+  "name": "frameflow-studio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "node scripts/build.js",
+    "test": "node --test"
+  }
+}
